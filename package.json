@@ -1,0 +1,15 @@
+{
+  "name": "twitter-page",
+  "version": "1.0.0",
+  "description": "a page to display twitter information",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max Rashes",
+  "license": "ISC",
+  "dependencies": {
+    "node-tweet-stream": "^2.0.1",
+    "twitter": "^1.7.1"
+  }
+}
